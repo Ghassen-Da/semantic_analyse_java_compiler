@@ -1,0 +1,1 @@
+Line: 18 : Compiler error! Class ' Fac ' is already declared!
